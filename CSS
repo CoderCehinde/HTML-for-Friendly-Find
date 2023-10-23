@@ -1,0 +1,30 @@
+body {
+    font-family: Quicksand;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    color: blue;
+}
+
+.container {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+}
+
+input {
+    padding: 8px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
